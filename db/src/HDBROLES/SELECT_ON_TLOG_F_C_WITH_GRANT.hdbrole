@@ -1,0 +1,21 @@
+{
+  "role": {
+    "name": "SELECT_ON_TLOG_F_C_WITH_GRANT#",
+    "object_privileges": [
+      {
+        "name": "TLOG_F_C",
+        "type": "TABLE",
+        "privileges_with_grant_option": [
+          "SELECT"
+        ]
+      },
+      {
+        "name": "TLOG_F_C1",
+        "type": "TABLE",
+        "privileges_with_grant_option": [
+          "SELECT"
+        ]
+      }
+    ]
+  }
+}
