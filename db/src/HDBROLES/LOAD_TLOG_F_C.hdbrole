@@ -1,0 +1,27 @@
+{
+"role": {
+"name": "LOAD_TLOG_F_C",
+"object_privileges": [
+{
+"name": "TLOG_F_C",
+"type": "TABLE",
+"privileges": [
+"DELETE",
+"SELECT",
+"UPDATE",
+"INSERT"
+]
+},
+{
+"name": "TLOG_F_C1",
+"type": "TABLE",
+"privileges": [
+"DELETE",
+"SELECT",
+"UPDATE",
+"INSERT"
+]
+}
+]
+}
+}
